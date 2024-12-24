@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 
 export default function About() {
   return (
-    <div className="font-semibold text-center text-white text-5xl w-3/4 mx-auto my-10 mb-60 bg-slate-50 bg-opacity-10 backdrop-filter backdrop-blur-xl rounded-lg p-6">
+    <div className="font-semibold text-center text-white text-4xl sm:text-2-xl md:text-3-xl lg:text-5-xl w-3/4 mx-auto my-10 mb-60 bg-slate-50 bg-opacity-10 backdrop-filter backdrop-blur-xl rounded-lg p-6">
       About
       <div className="font-normal text-justify text-lg mt-6">
         Tantrotrotsav is the annual technical festival of the Amrita Vishwa
