@@ -4,7 +4,7 @@ import PinDemo from "./PinDemo";
 export default function Contact() {
   return (
     <div className="shadow-xl shadow-slate-600 flex justify-center align-middle flex-col text-white w-3/4 mx-auto my-10 mb-48 bg-slate-900 bg-opacity-40 backdrop-filter backdrop-blur-xl rounded-lg p-6">
-      <h1 className="font-semibold text-4xl sm:text-3xl md:text-4xl lg:text-5xl text-center mb-6">
+      <h1 className="font-semibold text-4xl sm:text-2xl md:text-3xl lg:text-4xl text-center mb-6">
         Contact Us
       </h1>
       <div className="flex flex-col lg:flex-row text-base sm:text-lg md:text-xl flex-wrap align-middle justify-evenly my-8">
