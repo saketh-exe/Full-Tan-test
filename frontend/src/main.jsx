@@ -4,7 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import AnimatedCursor from "react-animated-cursor"
 
-createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
     <AnimatedCursor color="255,155,0"
